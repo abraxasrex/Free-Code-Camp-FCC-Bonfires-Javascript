@@ -1,3 +1,6 @@
+
+///takes a yyyy-mm-dd format date range and condenses thme into a reductive, friendly format///
+
 function friendly(str) {
   var duplicate=1;
   //////check for dupes////
